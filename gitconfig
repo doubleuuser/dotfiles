@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = erik.be@outlook.com
+	name = erik b
